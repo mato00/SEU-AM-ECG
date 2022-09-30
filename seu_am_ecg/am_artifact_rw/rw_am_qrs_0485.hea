@@ -1,0 +1,3 @@
+rw_am_qrs_0485 1 500 5000
+rw_am_qrs_0485.dat 16 7372.4107536359625(689)/mV 16 0 -11254 30697 0 x
+# QRS-like artifacts in real world
